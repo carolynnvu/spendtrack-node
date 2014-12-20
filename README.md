@@ -10,17 +10,17 @@ Running the server:
 
 In terminal:
 ```
-npm install 
-mongod
+$ npm install 
+$ mongod
 ```
 
 In a separate terminal window:
 ```
-mongo
+$ mongo
 ```
 
 In a separate terminal window:
 ```
-nodemon
+$ nodemon
 ```
 
